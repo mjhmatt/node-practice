@@ -1,0 +1,15 @@
+{
+  "name": "solt",
+  "version": "1.0.0",
+  "description": "solt task for node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mjhmatt",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "hbs": "*"
+  }
+}
